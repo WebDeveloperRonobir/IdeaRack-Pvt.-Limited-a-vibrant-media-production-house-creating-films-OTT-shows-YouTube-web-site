@@ -1,0 +1,2 @@
+# IdeaRack-Pvt.-Limited-a-vibrant-media-production-house-creating-films-OTT-shows-YouTube-web-site
+"We are IdeaRack Pvt. Limited — a dynamic media production house specializing in films, OTT shows, YouTube micro-series (Meraki Shorts), podcasts, and more. With expertise in media education &amp; consultancy, we deliver creative, high-quality, and impactful content across platforms. Built with HTML, CSS, JS, BS &amp; fully responsive.
